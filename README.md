@@ -1,2 +1,2 @@
-# Angular Material UI practice
+# Angular Directive 이해하기
 
